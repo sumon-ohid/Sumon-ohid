@@ -22,12 +22,5 @@ C, HTML, Git, Blender...
 
 🧠 I'm currently learning C, C++..
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
-
-![Logo](https://www.xing.com/imagecache/public/scaled_original_image/eyJ1dWlkIjoiMjQzNGU2NWItY2Y1Mi00YThkLTkyOWYtNTY1NDJjM2E0OTUyIiwiYXBwX2NvbnRleHQiOiJlbnRpdHktcGFnZXMiLCJtYXhfd2lkdGgiOjEwMjQsIm1heF9oZWlnaHQiOjEwMjR9?signature=dc9e7961d9c69f4c0acc1858ca9d2bb6406e1cbaa93b8e8d73d26e3f170f5ac2)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sumon-ohid&theme=dark&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
