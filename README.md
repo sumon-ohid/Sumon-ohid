@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I'm 42 Vienna Student...
+I'm a 42 Vienna Student...
 
 
 ## 🔗 Links
