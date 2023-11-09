@@ -4,7 +4,7 @@
 # Hi, I'm Sumon! 
 
 ## 🚀 About Me
-I'm a 42 Vienna Student...
+I'm a Student @42 Vienna
 
 
 ## 🔗 Links
