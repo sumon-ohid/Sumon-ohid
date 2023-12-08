@@ -13,7 +13,7 @@ I'm a Student @42 Vienna
 
 
 ## 🛠 Skills
-C, HTML, Git, Unix, Blender...
+C, Git, Unix, Blender...
 
 
 ## Other Common Github Profile Sections
