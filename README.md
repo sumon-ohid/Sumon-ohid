@@ -21,4 +21,4 @@ part of making them happen!
 
 👩‍💻 I'm currently working on 42 Main Curriculum
 
-🧠 I'm currently learning C, C++..
+🧠 I'm currently learning C, C++, Bash Scripting, Makefile, Networking etc.
