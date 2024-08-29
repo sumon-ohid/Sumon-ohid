@@ -21,4 +21,6 @@ part of making them happen!
 
 👩‍💻 I'm currently working on 42 Main Curriculum
 
-🧠 I'm currently learning C, C++, Bash Scripting, Makefile, Networking etc.
+🧠 I'm currently learning C, C++, Bash Scripting, Makefile, Networking, Docker etc.
+![libfte](https://github.com/user-attachments/assets/2f3fba81-82cc-4687-aa36-a664752e4533)
+
