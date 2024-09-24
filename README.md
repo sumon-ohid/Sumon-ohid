@@ -21,5 +21,6 @@ part of making them happen!
 
 👩‍💻 I'm currently working on 42 Main Curriculum
 
-🧠 I'm currently learning C, C++, Bash Scripting, Makefile, Networking, Docker etc.
+🧠 I'm currently learning:
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,make,docker,nginx,mysql&perline=3)](https://skillicons.dev)
 
