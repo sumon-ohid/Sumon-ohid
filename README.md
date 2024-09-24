@@ -21,7 +21,7 @@ part of making them happen!
 
 👩‍💻 I'm currently working on 42 Main Curriculum
 
-Tools I normally use:
+👩‍💻 Tools I normally use:
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,ubuntu,git&perline=3)](https://skillicons.dev)
 
@@ -31,7 +31,7 @@ Tools I normally use:
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,docker,nginx,mysql&perline=3)](https://skillicons.dev)
 
 
-I want to learn:
+👩‍💻 I want to learn:
 
 [![My Skills](https://skillicons.dev/icons?i=py,js,selenium,qt,unity&perline=3)](https://skillicons.dev)
 
