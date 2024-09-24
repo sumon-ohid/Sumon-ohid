@@ -21,7 +21,8 @@ part of making them happen!
 
 👩‍💻 I'm currently working on 42 Main Curriculum
 
-👩‍💻 Tools I normally use:
+
+🧰 Tools I normally use:
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,ubuntu,git&perline=3)](https://skillicons.dev)
 
