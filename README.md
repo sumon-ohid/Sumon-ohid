@@ -25,3 +25,8 @@ part of making them happen!
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,docker,nginx,mysql&perline=3)](https://skillicons.dev)
 
+
+I want to learn:
+
+[![My Skills](https://skillicons.dev/icons?i=py,qt,js&perline=3)](https://skillicons.dev)
+
