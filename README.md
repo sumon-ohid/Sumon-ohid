@@ -34,5 +34,5 @@ part of making them happen!
 
 👩‍💻 I want to learn:
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,selenium,qt,unity&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,selenium,qt,unity,cs,dotnet,kubernetes&perline=3)](https://skillicons.dev)
 
