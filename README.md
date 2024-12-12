@@ -23,15 +23,15 @@ part of making them happen!
 
 🧰 Tools I normally use:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,ubuntu,git&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,ubuntu,git&perline=10)](https://skillicons.dev)
 
 
 🧠 I'm currently learning:
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,docker,nginx,mysql&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,docker,nginx,mysql&perline=10)](https://skillicons.dev)
 
 
 👩‍💻 I want to learn:
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,selenium,qt,unity,cs,dotnet,kubernetes&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,selenium,qt,unity,cs,dotnet,kubernetes&perline=10)](https://skillicons.dev)
 
