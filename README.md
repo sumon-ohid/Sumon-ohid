@@ -5,8 +5,7 @@
 
 ## 🚀 About Me
 I'm a software engineering student at 42 Vienna, diving into the IT world
-with a passion for hands-on learning. Even though I haven't worked in tech
-yet, I'm super eager to solve real-world problems. I want to turn my
+with a passion for hands-on learning. I'm super eager to solve real-world problems. I want to turn my
 curiosity into cool solutions that make a difference. I believe challenges
 are just chances to learn, and I'm all about working together and being
 proactive. My goal? Not just keeping up with tech changes, but also being
