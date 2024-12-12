@@ -28,10 +28,10 @@ part of making them happen!
 
 🧠 Tech stack I'm familiar with:
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,django,docker,nginx,mysql,postgres&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,html,css,js,django,docker,nginx,mysql,postgres&perline=10)](https://skillicons.dev)
 
 
 👩‍💻 I want to learn:
 
-[![My Skills](https://skillicons.dev/icons?i=py,js,selenium,qt,unity,cs,dotnet,kubernetes&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,dotnet,selenium,qt,unity,kubernetes&perline=10)](https://skillicons.dev)
 
