@@ -26,9 +26,9 @@ part of making them happen!
 [![My Skills](https://skillicons.dev/icons?i=vscode,ubuntu,git&perline=10)](https://skillicons.dev)
 
 
-🧠 I'm currently learning:
+🧠 Tech stack I'm familiar with:
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,docker,nginx,mysql&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,django,docker,nginx,mysql,postgres&perline=10)](https://skillicons.dev)
 
 
 👩‍💻 I want to learn:
