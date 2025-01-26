@@ -35,3 +35,8 @@ part of making them happen!
 
 [![My Skills](https://skillicons.dev/icons?i=py,cs,dotnet,selenium,qt,unity,kubernetes&perline=10)](https://skillicons.dev)
 
+🏅 Badge Earned:
+
+![github-foundations](https://github.com/user-attachments/assets/dcb07edf-05b1-4d5e-a7bb-ae25df13aee9)
+
+
