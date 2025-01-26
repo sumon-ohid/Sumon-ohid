@@ -35,7 +35,7 @@ part of making them happen!
 
 [![My Skills](https://skillicons.dev/icons?i=py,cs,dotnet,selenium,qt,unity,kubernetes&perline=10)](https://skillicons.dev)
 
-🏅 Badges Earned:
+🏅 Badge Earned:
 
 <img src="https://github.com/user-attachments/assets/f1bd8b44-2171-4295-b473-591af7da413d" alt="Badge" width="100" height="100"  style="margin-left: 20px;">
 <!--
