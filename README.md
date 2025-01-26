@@ -37,6 +37,4 @@ part of making them happen!
 
 🏅 Badge Earned:
 
-![github-foundations](https://github.com/user-attachments/assets/dcb07edf-05b1-4d5e-a7bb-ae25df13aee9)
-
-
+<img src="https://github.com/user-attachments/assets/f1bd8b44-2171-4295-b473-591af7da413d" alt="Badge" width="100" height="100"  style="margin-left: 20px;">
