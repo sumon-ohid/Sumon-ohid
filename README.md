@@ -31,7 +31,7 @@ part of making them happen!
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,html,css,js,django,docker,nginx,mysql,postgres&perline=15)](https://skillicons.dev)
 
 
-👩‍💻 I want to learn:
+👩‍💻 I want to learn more:
 
 [![My Skills](https://skillicons.dev/icons?i=py,cs,dotnet,selenium,qt,unity,kubernetes&perline=10)](https://skillicons.dev)
 
