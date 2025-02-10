@@ -28,7 +28,7 @@ part of making them happen!
 
 🧠 Tech stack I'm familiar with:
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,html,css,js,django,docker,nginx,mysql,postgres&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,html,css,js,django,docker&perline=15)](https://skillicons.dev)
 
 
 👩‍💻 I want to learn more:
