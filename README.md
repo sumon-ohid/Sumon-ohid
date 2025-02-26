@@ -25,17 +25,17 @@ part of making them happen!
 
 🧰 Tools I normally use:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,ubuntu,git&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,ubuntu,git,apple&perline=10)](https://skillicons.dev)
 
 
 🧠 Tech stack I'm familiar with:
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,html,css,js,django,docker&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,js,html,css,tailwind,django,docker&perline=15)](https://skillicons.dev)
 
 
 👩‍💻 I want to learn more:
 
-[![My Skills](https://skillicons.dev/icons?i=py,cs,dotnet,selenium,qt,unity,kubernetes&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,selenium,react,ts,qt,unity,kubernetes&perline=10)](https://skillicons.dev)
 
 🏅 Badge Earned:
 
