@@ -25,7 +25,7 @@ part of making them happen!
 
 🧰 Tools I normally use:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,ubuntu,git,apple&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,apple,vscode,git&perline=10)](https://skillicons.dev)
 
 
 🧠 Tech stack I'm familiar with:
