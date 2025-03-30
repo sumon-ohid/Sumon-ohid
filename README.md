@@ -4,7 +4,7 @@
 # Hi, I'm Sumon! 
 
 ## 🚀 About Me
-I'm a software engineering student at 42 Vienna, diving into the IT world
+I'm a software engineering mastery student at 42 Vienna, diving into the IT world
 with a passion for hands-on learning. I'm super eager to solve real-world problems. I want to turn my
 curiosity into cool solutions that make a difference. I believe challenges
 are just chances to learn, and I'm all about working together and being
