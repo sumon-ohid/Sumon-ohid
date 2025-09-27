@@ -4,12 +4,14 @@
 # Hi, I'm Sumon! 
 
 ## 🚀 About Me
-I'm a software engineering mastery student at 42 Vienna, diving into the IT world
-with a passion for hands-on learning. I'm super eager to solve real-world problems. I want to turn my
-curiosity into cool solutions that make a difference. I believe challenges
-are just chances to learn, and I'm all about working together and being
-proactive. My goal? Not just keeping up with tech changes, but also being
-part of making them happen!
+I like to build web apps. Here are some of my projects:
+-> https://replai.tech
+-> https://www.launchjet.dev
+-> https://www.waitlistpages.com
+-> https://tiny-tasks.vercel.app
+-> https://vai.email (shutting down soon)
+-> https://dodo62.vercel.app
+-> https://radissionred.vercel.app
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://thesumon.vercel.app/)
@@ -20,7 +22,7 @@ part of making them happen!
 
 🎓 I've completed 42 Common Core.
 
-👩‍💻 I'm currently working on 42 Mastery Curriculum.
+👩‍💻 I'm currently working on 42 Mastery Curriculum. And some side projects.
 
 
 🧰 Tools I normally use:
