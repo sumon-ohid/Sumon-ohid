@@ -48,4 +48,4 @@ I like to build web apps. Here are some of my projects:
 <img src="https://github.com/user-attachments/assets/70e33a71-6e7d-4193-99b5-71b02fda3d1b" alt="Badge" width="100" height="100"  style="margin-left: 20px;">
 -->
 
-### markeddown using ai.
+---- markeddown using ai ----
