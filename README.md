@@ -11,7 +11,7 @@ Turning ideas into web apps. Here are some of my projects:
 - [LaunchJet](https://www.launchjet.dev)  
 - [Waitlist Pages](https://www.waitlistpages.com)  
 - [Tiny Tasks](https://tiny-tasks.vercel.app)  
-- [VAI Email](https://vai.email) *(shutting down soon)*  
+- [VAI Email](https://vai.email) *(closing soon)*  
 - [Dodo62](https://dodo62.vercel.app)  
 - [Radission Red](https://radissionred.vercel.app)  
 
