@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I like to build web apps. Here are some of my projects:
+Turning ideas into web apps. Here are some of my projects:
 
 - [Replai](https://replai.tech)  
 - [LaunchJet](https://www.launchjet.dev)  
