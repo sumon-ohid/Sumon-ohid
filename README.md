@@ -7,7 +7,7 @@
 
 Turning ideas into web apps. Here are some of my projects:
 
-- [Replai](https://replai.tech)  
+- [ReceiptBox](https://replai.tech)  
 - [LaunchJet](https://www.launchjet.dev)  
 - [Waitlist Pages](https://www.waitlistpages.com)  
 - [Tiny Tasks](https://tiny-tasks.vercel.app)  
