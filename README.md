@@ -34,12 +34,12 @@ Turning ideas into web apps. Here are some of my projects:
 
 🧠 Tech stack I'm familiar with:
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,js,html,css,tailwind,django,docker&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,js,html,css,tailwind,react,ts,nextjs,nodejs,django,prisma,docker&perline=15)](https://skillicons.dev)
 
 
 👩‍💻 I want to learn more:
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,selenium,react,ts,qt,unity,kubernetes&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,selenium,qt,unity,kubernetes&perline=10)](https://skillicons.dev)
 
 🏅 Badge Earned:
 
