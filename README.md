@@ -20,6 +20,8 @@ Turning ideas into web apps. Here are some of my projects:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumon-md-ohiduzzaman/)
 
 ## Others
+I ❤️ frontend. Backend and database are fun.
+
 😄 Pronouns He/Him
 
 🎓 I've completed 42 Common Core.
