@@ -3,8 +3,6 @@
 
 # Hi, I'm Sumon! 
 
-## 🚀 About Me
-
 Turning ideas into web apps. Here are some of my projects:
 
 - [ReceiptBox](https://replai.tech)  
