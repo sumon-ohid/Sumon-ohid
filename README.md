@@ -8,9 +8,7 @@ Turning ideas into web apps. Here are some of my projects:
 
 - [SpendLog App](https://spendlog.app)  
 - [Waitlist Pages](https://www.waitlistpages.com)  
-- [Tiny Tasks](https://tiny-tasks.vercel.app)  
-- [Dodo62](https://dodo62.vercel.app)  
-- [Radission Red](https://radissionred.vercel.app)  
+- [Tiny Tasks](https://tiny-tasks.vercel.app)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://thesumon.vercel.app/)
