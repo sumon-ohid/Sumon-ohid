@@ -5,7 +5,7 @@
 # Hi, I'm Sumon! 
 
 Turning ideas into web apps. Here are some of my projects:
-- [Infile App]((https://infile.app/)) - Collect documents.
+- [Infile App](https://infile.app/) - Collect documents.
 - [SpendLog App](https://spendlog.app)  - Manage spendings
 - [Waitlist Pages](https://www.waitlistpages.com)  - Create waitlist page
 - [Tiny Tasks](https://tiny-tasks.vercel.app) - Manage tasks
