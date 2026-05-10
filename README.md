@@ -5,10 +5,12 @@
 # Hi, I'm Sumon! 
 
 Turning ideas into web apps. Here are some of my projects:
-- [Infile App](https://infile.app/) - Collect documents.
-- [SpendLog App](https://spendlog.app)  - Manage spendings
-- [Waitlist Pages](https://www.waitlistpages.com)  - Create waitlist page
-- [Tiny Tasks](https://tiny-tasks.vercel.app) - Manage tasks
+- [Infile App](https://infile.app/) - Collect documents in days.
+- [SpendLog App](https://spendlog.app)  - Manage spendings easily.
+- [Browser Line](https://browserline.vercel.app)  - Call any number from the browser.
+- [Reflare Email](https://reflare.vercel.app)  - Send bulk emails using Cloudflare email service and Resend.
+- [Waitlist Pages](https://www.waitlistpages.com)  - Create waitlist page.
+- [Tiny Tasks](https://tiny-tasks.vercel.app) - Manage tasks (Kanban style).
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://thesumon.vercel.app/)
