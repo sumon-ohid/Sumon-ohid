@@ -10,7 +10,6 @@ Turning ideas into web apps. Here are some of my projects:
 - [Browser Line](https://browserline.vercel.app)  - Call any number from the browser.
 - [Reflare Email](https://reflare.vercel.app)  - Send bulk emails using Cloudflare email service and Resend.
 - [Online Coloring Book](https://animated-svg-eight.vercel.app/create)  - Color on drawings online (140+ premade drawings)
-- [Waitlist Pages](https://www.waitlistpages.com)  - Create waitlist page.
 - [Tiny Tasks](https://tiny-tasks.vercel.app) - Manage tasks (Kanban style).
 
 ## 🔗 Links
