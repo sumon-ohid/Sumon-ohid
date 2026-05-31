@@ -19,13 +19,6 @@ Turning ideas into web apps. Here are some of my projects:
 ## Others
 I build things.
 
-😄 Pronouns He/Him
-
-🎓 I've completed 42 Common Core.
-
-👩‍💻 I'm currently working on 42 Mastery Curriculum. And some side projects.
-
-
 🧰 Tools I normally use:
 
 [![My Skills](https://skillicons.dev/icons?i=linux,apple,vscode,git&perline=10)](https://skillicons.dev)
