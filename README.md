@@ -7,7 +7,6 @@
 Turning ideas into web apps. Here are some of my projects:
 - [Better-PaaS](https://better-paas.com/) - The self-hosted platform for apps and databases.
 - [Infile App](https://infile.app/) - Collect documents in days.
-- [SpendLog App](https://spendlog.app)  - Manage spendings easily.
 - [Browser Line](https://browserline.vercel.app)  - Call any number from the browser.
 - [Reflare Email](https://reflare.vercel.app)  - Send bulk emails using Cloudflare email service and Resend.
 - [Online Coloring Book](https://coloronme.vercel.app/create)  - Color on drawings online (140+ premade drawings)
